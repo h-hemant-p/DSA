@@ -2,19 +2,19 @@
 
 An **array** is a **fixed-size**, contiguous block of memory used to store multiple elements.
 
-**Key Characteristics:**
+**👉Key Characteristics:**
 
 - **Index-based** (0-based indexing)
 - **Fixed size** (Cannot resize after declaration)
 - **Efficient** in accessing elements (O(1) time complexity)
 
-**Types Of Array**
+**👉Types Of Array**
 
 1. **Linear Array**
 2. **Multi Dimentional Array**
 3. **Jagged Array**
 
-**Linear Array Declaration & Initialization in Java**
+**👉Linear Array Declaration & Initialization in Java**
 
 ```java
 // Declaration (only allocates reference)
@@ -38,7 +38,7 @@ for (int i = 0; i < arr.length; i++) {
 
 ```
 
-**Multi-Dimensional Array Declaration and Initialization**
+**👉Multi-Dimensional Array Declaration and Initialization**
 
 ```java
 // 2D Array Example
@@ -62,7 +62,7 @@ for (int i = 0; i < matrix.length; i++) {
 }
 ```
 
-**Jagged Array Declaration and Inialization**
+**👉Jagged Array Declaration and Inialization**
 
 ```java
 // Jagged Array Example
@@ -85,7 +85,7 @@ for (int i = 0; i < jaggedArray.length; i++) {
 
 
 
-**Key Differences Between 2D and Jagged Arrays:**
+**👉Key Differences Between 2D and Jagged Arrays:**
 
 * A **2D array** has rows of equal length.
 * A **jagged array** has rows of varying lengths.
@@ -106,6 +106,5 @@ for (int i = 0; i < jaggedArray.length; i++) {
 
 
 ---
-
 
 **Happy Learning😊!**

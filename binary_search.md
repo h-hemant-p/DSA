@@ -97,22 +97,18 @@ public class BinarySearchRecursive {
 | **Average Case** | O(log n)                                      |
 
 
-**👉Advantages of Binary Search**
+**✅Advantages of Binary Search**
 
-✔️ Faster than linear search ( **O(log n) vs. O(n)** ).
-
-✔️ Efficient for  **large datasets** .
-
-✔️ Can be implemented **recursively** or  **iteratively** .
+* Faster than linear search ( **O(log n) vs. O(n)** ).
+* Efficient for  **large datasets** .
+* Can be implemented **recursively** or  **iteratively** .
 
 
-**👉Disadvantages of Binary Search**
+**❌Disadvantages of Binary Search**
 
-❌ Requires the array to be **sorted** beforehand.
-
-❌ Not efficient for **small datasets** (overhead of sorting).
-
-❌ Difficult to use with **linked lists** (as binary search requires random access).
+* Requires the array to be **sorted** beforehand.
+* Not efficient for **small datasets** (overhead of sorting).
+* Difficult to use with **linked lists** (as binary search requires random access).
 
 
 **👉Use Cases of Binary Search**

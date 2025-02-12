@@ -2,12 +2,12 @@
 
 Complexity refers to the **efficiency** of an algorithm in terms of **time** and **space** required to execute it.
 
-**Types of Complexities -**
+**👉Types of Complexities -**
 
 1. Space Complexity
 2. Time Complexity
 
-**How to Analyze Complexity? -**
+**👉How to Analyze Complexity? -**
 
 1. **Best Case** (Ω) → Fastest execution time.
 2. **Worst Case** (O) → Maximum time required.
@@ -17,7 +17,7 @@ Complexity refers to the **efficiency** of an algorithm in terms of **time** and
 
 Asymptotic notations describe the **growth rate** of an algorithm’s time or space complexity as the input size (**n**) increases.
 
-**Types of Asymptotic Notations -**
+**👉Types of Asymptotic Notations -**
 
 1. **Big-O Notation (O) :**
 
@@ -60,7 +60,7 @@ Asymptotic notations describe the **growth rate** of an algorithm’s time or sp
      | Θ(n²)     | Brute Force Algorithms      |
 
 
-**Relation Between Notations :**
+**👉Relation Between Notations :**
 	For a given function **f(n)**:
 
 ```
@@ -75,7 +75,7 @@ This means:
 
 ---
 
-**Example :**
+**👉Example :**
 
 Consider a **for loop**:
 
