@@ -1,2 +1,11 @@
 # Data-Structure-Algorithms
-Learning Data Structures and Algorithms...
+
+* **[Introduction]()✔️**
+* **[Complexity and Asymptotic Notations]()✔️**
+* **[Array]()✔️**
+* **[Linear Search]()✔️**
+* **[Binary Search✔️]()**
+* 
+* 
+* **[Stack]()**
+*
