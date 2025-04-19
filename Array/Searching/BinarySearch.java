@@ -1,4 +1,4 @@
-package Array.Questions;
+package Array.Searching;
 
 public class BinarySearch {
     static int search(int[] arr, int target) {

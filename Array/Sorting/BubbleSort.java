@@ -1,4 +1,4 @@
-package Array.Questions;
+package Array.Sorting;
 
 public class BubbleSort {
     public static void main(String[] args) {
