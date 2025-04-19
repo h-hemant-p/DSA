@@ -1,7 +1,5 @@
 # Introduction to DSA
 
----
-
 **Data Structure**  is A way of organizing and storing data efficiently and **Algorithm**  is A step-by-step procedure to solve a problem.
 
 ##### Why DSA?
