@@ -4,14 +4,14 @@
 
 ## Easy
 
-- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)[✔️](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 - [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
-- [To Lower Case](https://leetcode.com/problems/to-lower-case/)
-- [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
+- [To Lower Case](https://leetcode.com/problems/to-lower-case/)✔️
+- [Determine if string halves are alike✔️](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
@@ -65,4 +65,4 @@
 
 # Additionally
 
-- [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+- [Click &#34;Show problem tags&#34; and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
